@@ -4,28 +4,35 @@ using TMPro;
 
 public class WeeklyTurnManager : MonoBehaviour
 {
-    public TMP_Text weekText; // Optional (public variable for reference)
+    public GameManager gameManager;
     public int currentWeek;
 
     void Start()
     {
-        currentWeek = 1;
-
-        // Find TextMeshPro object using its name
-        weekText = GameObject.Find("WeekNumberText").GetComponent<TMP_Text>();
-
-        if (weekText != null) // Check if text object is found
+        if (gameManager != null)
         {
-            weekText.text = "Week: " + currentWeek;
+            currentWeek = gameManager.currentWeek; // Get current week from GameManager
+            // ... update UI based on currentWeek ...
+
+            // Subscribe to week changed event (optional)
+            if (gameManager.onWeekChanged != null)
+            {
+                gameManager.onWeekChanged += OnWeekChanged;
+            }
         }
     }
 
     public void NextWeek()
     {
-        currentWeek++;
-        if (weekText != null) // Check if text object is found
+        if (gameManager != null)
         {
-            weekText.text = "Week: " + currentWeek;
+            gameManager.NextWeek(); // Trigger week change in GameManager
         }
+    }
+
+    void OnWeekChanged(int newWeek)
+    {
+        currentWeek = newWeek;
+        // Update UI or handle weekly changes based on newWeek
     }
 }
