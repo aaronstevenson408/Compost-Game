@@ -104,7 +104,7 @@ public class GameManager : MonoBehaviour
         // Mix the compost bin if requested
         if (mixEntireBin)
         {
-            //MixEntireBin();
+            MixEntireBin();
         }
 
         // Remove the requested amount of fertilizer from the compost bin
@@ -116,20 +116,21 @@ public class GameManager : MonoBehaviour
         SellFertilizer(amountToPull, compostQuality);
     }
 
-    // void MixEntireBin()
-    // {
-    //     // Merge all layers into a single layer
-    //     CompostLayer mergedLayer = new CompostLayer();
-    //     foreach (CompostLayer layer in compostLayers)
-    //     {
-    //         mergedLayer = mergedLayer.MergeWith(layer);
-    //     }
-    //     compostLayers.Clear();
-    //     compostLayers.Add(mergedLayer);
+    void MixEntireBin()
+    {
+        List<CompostableItem> allItems = new List<CompostableItem>();
+        // Merge all layers into a single layer
+        CompostLayer mergedLayer = new CompostLayer(allItems, 0.5f, 0.5f);
+        foreach (CompostLayer layer in compostLayers)
+        {
+            mergedLayer = mergedLayer.MergeWith(layer);
+        }
+        compostLayers.Clear();
+        compostLayers.Add(mergedLayer);
 
-    //     // Update compost bin UI
-    //     compostBin.UpdateCompostBinUI(compostLayers);
-    // }
+        // Update compost bin UI
+        compostBin.UpdateCompostBinUI(compostLayers);
+    }
 
     void AdjustCompostLayersAfterPull(float remainingFertilizer)
     {
@@ -180,7 +181,9 @@ public class GameManager : MonoBehaviour
         reputation += (int)(quality * 10); // Example calculation
 
         // Update UI
-        uiManager.UpdateGameState(money, reputation);
+        float compostQuality = CalculateCompostQuality();
+        uiManager.UpdateGameState(money, reputation, compostQuality);
+
     }
 
     float CalculateCompostQuality()

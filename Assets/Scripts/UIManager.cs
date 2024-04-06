@@ -26,12 +26,12 @@ public class UIManager : MonoBehaviour
         weekText.text = $"Week: {currentWeek}";
     }
 
-    public void UpdateGameState(int money, int reputation)//, float compostQuality)
+    public void UpdateGameState(int money, int reputation, float compostQuality)
     {
         moneyText.text = $"Money: {money}";
         reputationText.text = $"Reputation: {reputation}";
 
-        // // Update the compost bin UI based on the compost quality
-        // compostBinUI.UpdateCompostQuality(compostQuality);
+        // Update the compost bin UI based on the compost quality
+        compostBinUI.UpdateCompostQuality(compostQuality);
     }
 }
