@@ -1,38 +1,27 @@
 using UnityEngine;
 using TMPro;
 
-
 public class WeeklyTurnManager : MonoBehaviour
 {
-    public GameManager gameManager;
-    public int currentWeek;
+    public int currentWeek = 1; // Initialize starting week
+    public TextMeshProUGUI weekNumberText; // Reference to the UI element
 
     void Start()
     {
-        if (gameManager != null)
-        {
-            currentWeek = gameManager.currentWeek; // Get current week from GameManager
-            // ... update UI based on currentWeek ...
-
-            // Subscribe to week changed event (optional)
-            if (gameManager.onWeekChanged != null)
-            {
-                gameManager.onWeekChanged += OnWeekChanged;
-            }
-        }
+        UpdateWeekNumberUI(); // Update the UI with the initial week number
     }
 
     public void NextWeek()
     {
-        if (gameManager != null)
-        {
-            gameManager.NextWeek(); // Trigger week change in GameManager
-        }
+        currentWeek++;
+        UpdateWeekNumberUI(); // Update the UI with the new week number
     }
 
-    void OnWeekChanged(int newWeek)
+    void UpdateWeekNumberUI()
     {
-        currentWeek = newWeek;
-        // Update UI or handle weekly changes based on newWeek
+        if (weekNumberText != null)
+        {
+            weekNumberText.text = "Week " + currentWeek.ToString();
+        }
     }
 }
