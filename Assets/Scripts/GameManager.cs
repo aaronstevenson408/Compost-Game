@@ -10,11 +10,13 @@ public class GameManager : MonoBehaviour
 
     // List to store compost layers
     public List<CompostLayer> compostLayers = new List<CompostLayer>();
-
+    // List to store compost items
+    public List<CompostableItem> spawnedItems = new List<CompostableItem>();
     // References to other game components
     public CompostBin compostBin;
     public ItemSpawner itemSpawner;
     public UIManager uiManager;
+
 
     void Start()
     {
@@ -75,7 +77,11 @@ public class GameManager : MonoBehaviour
     void SpawnCompostableItems()
     {
         // Spawn new compostable items for the week
-        itemSpawner.SpawnItems();
+        spawnedItems = itemSpawner.SpawnItems();
+        foreach (var item in spawnedItems)
+        {
+            Debug.Log($"Item: {item.itemName}");
+        }
     }
 
     public void StirLayers(int layerIndex1, int layerIndex2)
