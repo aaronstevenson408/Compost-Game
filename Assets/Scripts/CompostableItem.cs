@@ -1,5 +1,8 @@
-public class CompostableItem
+using System.Collections.Generic;
+using UnityEngine;
+public class CompostableItem : MonoBehaviour
 {
+
     public string itemName;
     public float nitrogenContent; // For "green" materials
     public float carbonContent; // For "brown" materials
