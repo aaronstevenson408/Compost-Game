@@ -55,7 +55,8 @@ public class ItemSpawner : MonoBehaviour
             CompostableItem prefab = itemPrefabs[Random.Range(0, itemPrefabs.Count)];
 
             // Calculate a random position within the spawn area
-            Vector3 randomPosition = spawnArea.transform.position + Random.insideUnitCircle * spawnAreaRadius;
+            Vector2 randomOffset = Random.insideUnitCircle * spawnAreaRadius;
+            Vector3 randomPosition = spawnArea.transform.position + new Vector3(randomOffset.x, randomOffset.y, 0f);
 
             // Instantiate the prefab at the random position and add it to the list
             CompostableItem spawnedItem = Instantiate(prefab.gameObject, randomPosition, Quaternion.identity).GetComponent<CompostableItem>();
