@@ -1,0 +1,2054 @@
+[
+    {
+        "carbonContent": 0.61,
+        "itemName": "Russet potatoes",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Gold potatoes",
+        "itemWeight": 2,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Purple potatoes",
+        "itemWeight": 4.58,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Cherry tomatoes",
+        "itemWeight": 1.5432,
+        "nitrogenContent": 0.33
+    },
+    {
+        "carbonContent": 0.78,
+        "itemName": "Tomatoes",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.22
+    },
+    {
+        "carbonContent": 0.74,
+        "itemName": "Large tomatoes",
+        "itemWeight": 1.35,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Golden berry / cape gooseberry / Uchuva",
+        "itemWeight": 0.35,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Naranjilla",
+        "itemWeight": 0.34,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Eggplant",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Poblano pepper / chile ancho",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.02
+    },
+    {
+        "carbonContent": 0.72,
+        "itemName": "Hot pepper",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Green bell pepper",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Red bell pepper",
+        "itemWeight": 1.348,
+        "nitrogenContent": 0.21
+    },
+    {
+        "carbonContent": 0.71,
+        "itemName": "Orange bell pepper",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.16
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Yellow bell pepper",
+        "itemWeight": 8.9,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.47,
+        "itemName": "Mixed Chili peppers / Hot peppers / Poblano, Cayenne, Serrano, Haba",
+        "itemWeight": 2,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.43,
+        "itemName": "Jalapeno Pepper",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Habanero / Scotch Bonnet pepper",
+        "itemWeight": 0.45,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.72,
+        "itemName": "Cayenne pepper",
+        "itemWeight": 1.5,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.71,
+        "itemName": "Yellow pepper",
+        "itemWeight": 2.58,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cubanelle Pepper",
+        "itemWeight": 2.643,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Watermelon",
+        "itemWeight": 28.3495,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Honeydew melon",
+        "itemWeight": 4.23,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Cantaloupe melon",
+        "itemWeight": 1.5,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Kiwano melon / Horned melon",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.4
+    },
+    {
+        "carbonContent": 0.69,
+        "itemName": "Delicata squash",
+        "itemWeight": 1.38,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.36,
+        "itemName": "Acorn Squash",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.07
+    },
+    {
+        "carbonContent": 0.43,
+        "itemName": "Pumpkin",
+        "itemWeight": 20,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Crookneck squash",
+        "itemWeight": 2,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.47,
+        "itemName": "Butternut Squash",
+        "itemWeight": 2.165,
+        "nitrogenContent": 0.039
+    },
+    {
+        "carbonContent": 0.45,
+        "itemName": "Ornamental gourds: turban squash, gooseneck, small pumpkins",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.25,
+        "itemName": "Romaine lettuce",
+        "itemWeight": 0.336,
+        "nitrogenContent": 0.75
+    },
+    {
+        "carbonContent": 0.9,
+        "itemName": "Iceberg Lettuce",
+        "itemWeight": 1.34,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.87,
+        "itemName": "Radicchio",
+        "itemWeight": 2.0,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Artichoke",
+        "itemWeight": 1.26,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.39,
+        "itemName": "Tarragon",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.47
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Cardoon / Burdock / Artichoke thustle",
+        "itemWeight": 0.71,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.58,
+        "itemName": "Burdock root / Cardoon root",
+        "itemWeight": 1.92,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Chamomile",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.47,
+        "itemName": "Lacinato kale / Tuscan kale / Dinosaur kale",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.53
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Red cabbage / Purple cabbage",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.4
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Green cabbage",
+        "itemWeight": 1.26,
+        "nitrogenContent": 0.45
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Bok choy",
+        "itemWeight": 0.32,
+        "nitrogenContent": 0.31
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Brussels sprouts",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Cauliflower",
+        "itemWeight": 1.134,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Broccoli",
+        "itemWeight": 1.26,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Kohlrabi",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Radishes",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Daikon Radishes",
+        "itemWeight": 0.32,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Turnips",
+        "itemWeight": 1.875,
+        "nitrogenContent": 0.241
+    },
+    {
+        "carbonContent": 0.73,
+        "itemName": "Rutabaga",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Arugula / Rocket / Eruca",
+        "itemWeight": 127.98,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Mugwort",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Romanesco broccoli / Roman cauliflower",
+        "itemWeight": 0.8,
+        "nitrogenContent": 0.33
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cress",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Chayote",
+        "itemWeight": 0.35,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.47,
+        "itemName": "Zucchini / Green squash",
+        "itemWeight": 5,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Yellow squash / Summer squash",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Cucumber",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Pepino dulce",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.43,
+        "itemName": "Pan Patty Squash",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Green beans",
+        "itemWeight": 154,
+        "nitrogenContent": 0.7
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Black beans",
+        "itemWeight": 16,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Chickpeas / Garbanzo beans",
+        "itemWeight": 128,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Kidney beans",
+        "itemWeight": 8,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Black-eyed peas",
+        "itemWeight": 16,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Pinto beans",
+        "itemWeight": 16,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Navy beans / White beans",
+        "itemWeight": 16,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.71,
+        "itemName": "Coffee",
+        "itemWeight": 12.0,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Black lentils",
+        "itemWeight": 16,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Green lentils",
+        "itemWeight": 16.0,
+        "nitrogenContent": 0.48
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Red Lentils",
+        "itemWeight": 16.0,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.18,
+        "itemName": "Peanuts",
+        "itemWeight": 48,
+        "nitrogenContent": 0.056
+    },
+    {
+        "carbonContent": 0.35,
+        "itemName": "Fenugreek",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.42
+    },
+    {
+        "carbonContent": 0.45,
+        "itemName": "Licorice root",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Mexican yam bean",
+        "itemWeight": 1.32282945,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Lemongrass",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Lotus root",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Taro root",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Bamboo",
+        "itemWeight": 0.12,
+        "nitrogenContent": 0.08
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Rice",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Oats",
+        "itemWeight": 1638.0,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Barley",
+        "itemWeight": 32.0,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Rye",
+        "itemWeight": 48.0,
+        "nitrogenContent": 0.29
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Wheat",
+        "itemWeight": 1454.968,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.64,
+        "itemName": "Quinoa",
+        "itemWeight": 128,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Corn",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Corn",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.64,
+        "itemName": "Sugar cane",
+        "itemWeight": 179.35,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Amaranth",
+        "itemWeight": 2.72,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Asparagus",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Agave / Maguey",
+        "itemWeight": 45,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.71,
+        "itemName": "Aloe",
+        "itemWeight": 2.94,
+        "nitrogenContent": 0.08
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Nori",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.6
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Fiddlehead ferns",
+        "itemWeight": 1.28,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.45,
+        "itemName": "Prickly pear cactus",
+        "itemWeight": 10,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Basil",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Oregano",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.29
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Lavender",
+        "itemWeight": 3.1785,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.0,
+        "itemName": "Mint",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Sage",
+        "itemWeight": 3,
+        "nitrogenContent": 0.8
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Rosemary",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Thyme",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Pineapple",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Kiwi",
+        "itemWeight": 4.18379,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Yuca / Cassava",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.03
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Passionfruit",
+        "itemWeight": 0.6,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Beets",
+        "itemWeight": 1.78,
+        "nitrogenContent": 0.29
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Spinach",
+        "itemWeight": 5.3,
+        "nitrogenContent": 0.45
+    },
+    {
+        "carbonContent": 0.34,
+        "itemName": "Chard, red",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.66
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Chard, yellow",
+        "itemWeight": 1.06,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Sugarbeet",
+        "itemWeight": 1.25,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Vanilla",
+        "itemWeight": 2,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Saffron",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Garlic",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Yellow onion / Sweet onion",
+        "itemWeight": 3,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Red onion / Purple onion",
+        "itemWeight": 3,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.43,
+        "itemName": "White onion",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Green onion",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.79
+    },
+    {
+        "carbonContent": 0.7,
+        "itemName": "Leeks",
+        "itemWeight": 1.5625,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Chives",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.48
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Rhubarb",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Strawberry",
+        "itemWeight": 0.42,
+        "nitrogenContent": 0.37
+    },
+    {
+        "carbonContent": 0.38,
+        "itemName": "Blackberries",
+        "itemWeight": 128,
+        "nitrogenContent": 0.54
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Raspberries",
+        "itemWeight": 5.29,
+        "nitrogenContent": 0.387
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Blueberries",
+        "itemWeight": 128,
+        "nitrogenContent": 0.179
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cranberries",
+        "itemWeight": 128,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Elderberries",
+        "itemWeight": 5,
+        "nitrogenContent": 0.37
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Mulberries",
+        "itemWeight": 6,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Gooseberry",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Red grapes",
+        "itemWeight": 18.0,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Black grapes",
+        "itemWeight": 68,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Purple grapes",
+        "itemWeight": 18.0,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Ginger",
+        "itemWeight": 1.71,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Turmeric",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Ginseng",
+        "itemWeight": 2.0,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Horseradish",
+        "itemWeight": 0.625,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Wasabi",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Mustard",
+        "itemWeight": 15.22,
+        "nitrogenContent": 0.33
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Sesame Seeds",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.48,
+        "itemName": "Hops",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.32
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cotton",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Okra",
+        "itemWeight": 1.25,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Black tea leaves",
+        "itemWeight": 2.0,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Green tea leaves",
+        "itemWeight": 2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.47,
+        "itemName": "Carrots",
+        "itemWeight": 5,
+        "nitrogenContent": 0.29
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Parsnips",
+        "itemWeight": 2.58,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Parsley",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.5
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Celery",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Dill",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cumin",
+        "itemWeight": 6.25,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Shiitake mushrooms",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Common mushroom / button mushroom / crimini mushroom / champignon mushroom",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Oyster mushrooms",
+        "itemWeight": 128,
+        "nitrogenContent": 0.32
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Chicken of the Woods",
+        "itemWeight": 154,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Maitake / Ram's head",
+        "itemWeight": 1.78,
+        "nitrogenContent": 0.32
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Chanterelle mushrooms",
+        "itemWeight": 128,
+        "nitrogenContent": 0.34
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Portobello mushrooms",
+        "itemWeight": 10,
+        "nitrogenContent": 0.5
+    },
+    {
+        "carbonContent": 0.46,
+        "itemName": "King trumpet mushrooms / King oyster mushrooms / French horn mushroom",
+        "itemWeight": 1.37,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Black morels",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Enokitake",
+        "itemWeight": 15.87,
+        "nitrogenContent": 0.43
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Red delicious apples",
+        "itemWeight": 154.3,
+        "nitrogenContent": 0.11
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Granny Smith Apples / Green Apples",
+        "itemWeight": 182.08,
+        "nitrogenContent": 0.16
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Golden delicious apples / yellow apples",
+        "itemWeight": 1.392,
+        "nitrogenContent": 0.06
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Golden delicious apples / yellow apples",
+        "itemWeight": 1.82,
+        "nitrogenContent": 0.07
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Honeycrisp apples / variegated apples",
+        "itemWeight": 141.75,
+        "nitrogenContent": 0.025
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Bartlett pears",
+        "itemWeight": 8,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "D'anjou pears / Yellow pears",
+        "itemWeight": 12,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.72,
+        "itemName": "Bosc pears",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cherries",
+        "itemWeight": 1544,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Apricots",
+        "itemWeight": 0.32,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Peaches",
+        "itemWeight": 1,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Almond",
+        "itemWeight": 2.0,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Plums",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Tangerines / Mandarin oranges / Kumquats",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.37
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Oranges",
+        "itemWeight": 0.33,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Grapefruit",
+        "itemWeight": 3.2196,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Yuzu",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Lemon",
+        "itemWeight": 0.37,
+        "nitrogenContent": 0.08
+    },
+    {
+        "carbonContent": 0.0,
+        "itemName": "Lime",
+        "itemWeight": 250,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Pomegranate",
+        "itemWeight": 1.98,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.18,
+        "itemName": "Olives",
+        "itemWeight": 5.67,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Starfruit / Carambola",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Poppy",
+        "itemWeight": 2.7,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Cherimoya",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.38
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Soursop / Graviola",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Figs",
+        "itemWeight": 5,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Jackfruit / Jack tree",
+        "itemWeight": 12.0,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Breadfruit",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Papaya",
+        "itemWeight": 2.7,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Dragonfruit / Pitaya / Pitahaya",
+        "itemWeight": 5.75,
+        "nitrogenContent": 0.183
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Rambutan",
+        "itemWeight": 3.17,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Lychee",
+        "itemWeight": 0.34,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Banana",
+        "itemWeight": 1,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Poovan Banana",
+        "itemWeight": 3.54,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.7,
+        "itemName": "Red banana",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Plantain",
+        "itemWeight": 0.45,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Coconut",
+        "itemWeight": 3.2,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Newspaper",
+        "itemWeight": 0.14,
+        "nitrogenContent": 0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Acai",
+        "itemWeight": 3.17,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Juniper wood",
+        "itemWeight": 8,
+        "nitrogenContent": 0.01
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Bay Laurel",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Cinnamon",
+        "itemWeight": 198.85,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Avocado",
+        "itemWeight": 7,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Poppy",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.93,
+        "itemName": "Nutmeg",
+        "itemWeight": 4.18675,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.87,
+        "itemName": "Peppercorn",
+        "itemWeight": 1.5,
+        "nitrogenContent": 0.09
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Brazil nut",
+        "itemWeight": 16.349,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Persimmon",
+        "itemWeight": 7.38,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Guava",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Clove",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.49,
+        "itemName": "Allspice",
+        "itemWeight": 15.88,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Kola Nut",
+        "itemWeight": 1.24,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Durian",
+        "itemWeight": 1.2,
+        "nitrogenContent": 0.09
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Cacao",
+        "itemWeight": 85,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.59,
+        "itemName": "Mango",
+        "itemWeight": 0.47,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Mango",
+        "itemWeight": 1.3,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Pistachio",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Sumac",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.16,
+        "itemName": "Cashew",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Chestnut",
+        "itemWeight": 2.188,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Pecan",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.67,
+        "itemName": "Walnut",
+        "itemWeight": 2.14,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.14,
+        "itemName": "Macadamia Nut Shells",
+        "itemWeight": 2.75,
+        "nitrogenContent": 0.36
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Tamarind",
+        "itemWeight": 9.758,
+        "nitrogenContent": 0.16
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Vienna sausage",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Loaf / White bread",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Vienna large",
+        "itemWeight": 248.849,
+        "nitrogenContent": 0.36
+    },
+    {
+        "carbonContent": 0.62,
+        "itemName": "Baguette",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.01
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Pullman loaf / Rye",
+        "itemWeight": 1.34,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Coburg large",
+        "itemWeight": 2.178,
+        "nitrogenContent": 0.46
+    },
+    {
+        "carbonContent": 0.53,
+        "itemName": "Braided rug",
+        "itemWeight": 2.7,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Ciabatta",
+        "itemWeight": 8.92,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.45,
+        "itemName": "Newspaper",
+        "itemWeight": 0.16,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Newspaper",
+        "itemWeight": 0.14,
+        "nitrogenContent": 0
+    },
+    {
+        "carbonContent": 0.61,
+        "itemName": "Focaccia",
+        "itemWeight": 8,
+        "nitrogenContent": 0.02
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Braided rug",
+        "itemWeight": 2,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Breadsticks",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Tortillas",
+        "itemWeight": 48.0,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "English Muffin",
+        "itemWeight": 2,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Kaiser roll",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.21
+    },
+    {
+        "carbonContent": 0.72,
+        "itemName": "Sesame bun / Hamburger bun",
+        "itemWeight": 4.536,
+        "nitrogenContent": 0.11
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Crescent roll",
+        "itemWeight": 4.33,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Coburg Roll",
+        "itemWeight": 2.76,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.63,
+        "itemName": "Muffin",
+        "itemWeight": 12.5,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Cob",
+        "itemWeight": 0.176,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Pretzel",
+        "itemWeight": 15.22,
+        "nitrogenContent": 0.36
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Croissant",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.79,
+        "itemName": "Bagel",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Chocolate cake",
+        "itemWeight": 2,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Pie",
+        "itemWeight": 1.25,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Braided Pie",
+        "itemWeight": 1.25,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.71,
+        "itemName": "Pancakes",
+        "itemWeight": 2,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.74,
+        "itemName": "Waffles",
+        "itemWeight": 8.5,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Donut",
+        "itemWeight": 2.38,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Gouda",
+        "itemWeight": 8,
+        "nitrogenContent": 0.07
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "White Swiss",
+        "itemWeight": 8.82,
+        "nitrogenContent": 0.17
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Cheddar cheese",
+        "itemWeight": 8,
+        "nitrogenContent": 0.016
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Yellow Swiss Chard",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.36
+    },
+    {
+        "carbonContent": 0.43,
+        "itemName": "Smoked Gruyere Cheese",
+        "itemWeight": 8,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.14,
+        "itemName": "Muenster cheese",
+        "itemWeight": 8,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.82,
+        "itemName": "Gorgonzola Blue Cheese",
+        "itemWeight": 16.5,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Feta",
+        "itemWeight": 8,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Mozarella",
+        "itemWeight": 8,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Manchengo",
+        "itemWeight": 12.5,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Jack",
+        "itemWeight": 161,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Parmesan cheese",
+        "itemWeight": 8,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.0,
+        "itemName": "White eggs",
+        "itemWeight": 144.0,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.8,
+        "itemName": "Brown eggs",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.02
+    },
+    {
+        "carbonContent": 0.9,
+        "itemName": "Hardboiled eggs",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.05
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Fried eggs",
+        "itemWeight": 8.92857142857,
+        "nitrogenContent": 0.16
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Scrambled eggs",
+        "itemWeight": 8,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Butter",
+        "itemWeight": 8.5,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Chicken",
+        "itemWeight": 3,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Chicken drumstick",
+        "itemWeight": 1.21,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.19,
+        "itemName": "Rotisserie Chicken",
+        "itemWeight": 3.17,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Large chicken drumstick",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.18,
+        "itemName": "Turkey",
+        "itemWeight": 25,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.37,
+        "itemName": "Chicken breast",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.24
+    },
+    {
+        "carbonContent": 0.18,
+        "itemName": "Chicken breast",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.26,
+        "itemName": "Chicken breast",
+        "itemWeight": 17.857,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Chop",
+        "itemWeight": 154,
+        "nitrogenContent": 0.758
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Sausage",
+        "itemWeight": 1.0,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Ribeye steak",
+        "itemWeight": 16,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.32,
+        "itemName": "Ribeye steak",
+        "itemWeight": 1.49,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.34,
+        "itemName": "T-bone steak",
+        "itemWeight": 16.588,
+        "nitrogenContent": 0.14
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Rib roast",
+        "itemWeight": 6,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Sliced rib roast",
+        "itemWeight": 7.5,
+        "nitrogenContent": 0.5
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Back ribs",
+        "itemWeight": 3.5,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.16,
+        "itemName": "Ham",
+        "itemWeight": 32,
+        "nitrogenContent": 0.24
+    },
+    {
+        "carbonContent": 0.14,
+        "itemName": "Pork chop",
+        "itemWeight": 8,
+        "nitrogenContent": 0.27
+    },
+    {
+        "carbonContent": 0.16,
+        "itemName": "Pork chop",
+        "itemWeight": 2.58,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Bacon",
+        "itemWeight": 24,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Lamb chop",
+        "itemWeight": 1.35,
+        "nitrogenContent": 0.28
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Kebab",
+        "itemWeight": 12,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Meatballs",
+        "itemWeight": 0.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.42,
+        "itemName": "Mussel",
+        "itemWeight": 1.76,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Scallop",
+        "itemWeight": 15.68,
+        "nitrogenContent": 0.12
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Oyster",
+        "itemWeight": 3,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Crab",
+        "itemWeight": 8,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.14,
+        "itemName": "Anchovy",
+        "itemWeight": 1.59,
+        "nitrogenContent": 0.86
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Perch",
+        "itemWeight": 1.21,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Salmon",
+        "itemWeight": 1.56,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Trout",
+        "itemWeight": 2,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Catfish",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.29
+    },
+    {
+        "carbonContent": 0.15,
+        "itemName": "Walleye",
+        "itemWeight": 2,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.52,
+        "itemName": "Carp",
+        "itemWeight": 2.38,
+        "nitrogenContent": 0.18
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Bass",
+        "itemWeight": 1.4,
+        "nitrogenContent": 0.7
+    },
+    {
+        "carbonContent": 0.1,
+        "itemName": "Flounder",
+        "itemWeight": 2,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Cod",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.13,
+        "itemName": "Tilapia",
+        "itemWeight": 2.38,
+        "nitrogenContent": 0.54
+    },
+    {
+        "carbonContent": 0.12,
+        "itemName": "Herring",
+        "itemWeight": 1.54,
+        "nitrogenContent": 0.79
+    },
+    {
+        "carbonContent": 0.35,
+        "itemName": "Haddock",
+        "itemWeight": 1.41,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.7,
+        "itemName": "Calamari",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.01,
+        "itemName": "Lobster",
+        "itemWeight": 1.21,
+        "nitrogenContent": 0.0
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Grouper",
+        "itemWeight": 2.7,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.12,
+        "itemName": "Halibut",
+        "itemWeight": 3.567,
+        "nitrogenContent": 0.21
+    },
+    {
+        "carbonContent": 0.17,
+        "itemName": "Tuna",
+        "itemWeight": 2.5,
+        "nitrogenContent": 0.73
+    },
+    {
+        "carbonContent": 0.46,
+        "itemName": "Swordfish",
+        "itemWeight": 1.3687,
+        "nitrogenContent": 0.19
+    },
+    {
+        "carbonContent": 0.3,
+        "itemName": "Salmon Pike",
+        "itemWeight": 1.562,
+        "nitrogenContent": 0.7
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Flowers, small",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.35
+    },
+    {
+        "carbonContent": 0.65,
+        "itemName": "Flowers",
+        "itemWeight": 30,
+        "nitrogenContent": 0.35
+    },
+    {
+        "carbonContent": 0.74,
+        "itemName": "Flowers, large",
+        "itemWeight": 1.65,
+        "nitrogenContent": 0.26
+    },
+    {
+        "carbonContent": 0.57,
+        "itemName": "Sunflowers",
+        "itemWeight": 1.8,
+        "nitrogenContent": 0.23
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Small piece of wood",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0
+    },
+    {
+        "carbonContent": 0.56,
+        "itemName": "Medium-sized hardwood branch",
+        "itemWeight": 8.92,
+        "nitrogenContent": 0.13
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Large Log",
+        "itemWeight": 25,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.8,
+        "itemName": "Large pile of leaves",
+        "itemWeight": 50,
+        "nitrogenContent": 0
+    },
+    {
+        "carbonContent": 0.6,
+        "itemName": "Cattails",
+        "itemWeight": 1.23,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Lily pad",
+        "itemWeight": 1.5,
+        "nitrogenContent": 0.3
+    },
+    {
+        "carbonContent": 0.2,
+        "itemName": "Weeds",
+        "itemWeight": 1.5,
+        "nitrogenContent": 0.6
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Kale",
+        "itemWeight": 0.32,
+        "nitrogenContent": 0.45
+    },
+    {
+        "carbonContent": 0.17,
+        "itemName": "Soybeans",
+        "itemWeight": 32,
+        "nitrogenContent": 0.65
+    },
+    {
+        "carbonContent": 0.17,
+        "itemName": "Green grapes",
+        "itemWeight": 8.526,
+        "nitrogenContent": 0.39
+    },
+    {
+        "carbonContent": 0.74,
+        "itemName": "Fennel bulb",
+        "itemWeight": 1.92,
+        "nitrogenContent": 0.15
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Cilantro",
+        "itemWeight": 0.2,
+        "nitrogenContent": 0.4
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Heart of Palm",
+        "itemWeight": 2.0,
+        "nitrogenContent": 0.1
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Brie",
+        "itemWeight": 8,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.54,
+        "itemName": "Broccoli rabe / Broccolini",
+        "itemWeight": 0.238,
+        "nitrogenContent": 0.16
+    },
+    {
+        "carbonContent": 0.4,
+        "itemName": "Yellow lentils",
+        "itemWeight": 16,
+        "nitrogenContent": 0.2
+    },
+    {
+        "carbonContent": 0.75,
+        "itemName": "Pig",
+        "itemWeight": 125,
+        "nitrogenContent": 0.25
+    },
+    {
+        "carbonContent": 0.5,
+        "itemName": "Peas/Snap peas/Sugar peas",
+        "itemWeight": 0.25,
+        "nitrogenContent": 0.3
+    }
+]
